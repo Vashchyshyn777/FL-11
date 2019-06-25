@@ -1,0 +1,33 @@
+main {
+  background: white; }
+
+footer {
+  color: white; }
+  footer .footer_text {
+    display: block;
+    text-align: center; }
+  footer .footer-cr {
+    display: block;
+    text-align: right;
+    margin-right: 7.5%; }
+
+.section .section_text {
+  display: block;
+  text-align: center; }
+
+.section_card_wrap {
+  display: flex; }
+  .section_card_wrap .section_card {
+    background: black;
+    color: white; }
+    .section_card_wrap .section_card .section_card_img {
+      text-align: center; }
+    .section_card_wrap .section_card .section_card_text {
+      width: 50%;
+      text-align: center; }
+
+.header {
+  background-image: url(/FL11_HW3/homework/img/m-h-day.jpg);
+  background-color: #cccccc; }
+
+/*# sourceMappingURL=style2.css.map */
